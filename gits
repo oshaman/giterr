@@ -1,0 +1,11 @@
+//phpStorm 
+/*Can't Update
+			No tracked branch configured for branch master or the branch doesn't exist.
+To make your branch track a remote branch call, for example,
+                                                    git branch --set-upstream-to origin/master master (show balloon)*/
+// Open Git bash in folder
+git checkout master
+git branch --set-upstream-to=origin/master
+
+// Otherwise execute fetch
+=====================================================================================
